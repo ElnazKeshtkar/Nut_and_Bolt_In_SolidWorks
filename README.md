@@ -1,6 +1,6 @@
 # SolidWorks Nut and Bolt Mechanical Assembly
 
-![Image of the final assembly](Media/Nut_Bolt_Assembly.png)
+![Image of the final assembly](Renders/Nut_Bolt_Assembly.png)
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ This project showcases the modeling and mechanical simulation of a standard Nut 
 
 The following animation shows the nut rotating and advancing along the bolt's threads, demonstrating a realistic mechanical motion.
 
-![Nut and Bolt Threading Animation](Media/Nut_Bolt.mp4)
+![Nut and Bolt Threading Animation](Renders/Nut_Bolt.mp4)
 
 ## Key Features
 
