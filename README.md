@@ -10,7 +10,11 @@ This project showcases the modeling and mechanical simulation of a standard Nut 
 
 The following animation shows the nut rotating and advancing along the bolt's threads, demonstrating a realistic mechanical motion.
 
-![Nut and Bolt Threading Animation](Renders/Nut_Bolt.mp4)
+![Nut and Bolt Threading Animation](
+
+https://github.com/user-attachments/assets/4c1cd3dc-af53-4188-9124-c5125a4ab8da
+
+)
 
 ## Key Features
 
