@@ -1,6 +1,6 @@
 # SolidWorks Nut and Bolt Mechanical Assembly
 
-![Image of the final assembly](Renders/Nut_Bolt_Assembly.png)
+![Image of the final assembly](Renders/Nut_Bolt_Assembly_Render.png)
 
 ## Project Overview
 
@@ -20,8 +20,8 @@ The following animation shows the nut rotating and advancing along the bolt's th
 
 ## Repository Structure
 
-- `/CAD`: Contains all SolidWorks Part (`.SLDPRT`) and Assembly (`.SLDASM`) files.
-- `/Media`: Contains all final renders, images, and animations.
+- `/CAD_Parts`: Contains all SolidWorks Part (`.SLDPRT`) and Assembly (`.SLDASM`) files.
+- `/Renders`: Contains all final renders, images, and animations.
 
 ## Tools Used
 
